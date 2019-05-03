@@ -1,0 +1,52 @@
+.jumbotron{
+	background-image: url(bg1.jpg);
+}
+
+#RestoName h1{
+	color: red;
+}
+
+#RestoName p{
+	color: red;
+}
+
+footer{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	background-color: pink;
+}
+
+footer div ul{	
+	display: flex;
+	font-size: 40px;
+	list-style-type: none;
+}
+
+footer div ul li{	
+	padding: 50px;
+	display: flex;	
+}
+
+h1{
+	text-align: center;
+}
+
+nav {
+	background-color: gray;
+}
+
+form {
+	border: solid;
+	border-radius: 30px;
+}
+
+div label{
+	padding: 20px;
+}
+
+form button{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
